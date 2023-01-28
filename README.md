@@ -13,5 +13,5 @@ Also it has some menu options that allow you:
 - Exit the text editor
 
 <p align="center">
-<img align="center" width="800" src="https://i.gyazo.com/092a7485ba03602b740b667ed0389831.png">
+<img align="center" width="600" src="https://i.gyazo.com/092a7485ba03602b740b667ed0389831.png">
 </p>
